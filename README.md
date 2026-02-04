@@ -8,6 +8,31 @@ This repository is organized by course code and contains prescribed books, study
 
 ---
 
+## Repository Structure
+
+The repository is organized by course:
+
+- **Computer Networks I (COS2626)**
+  - prescribed_books
+- **Computer Systems Fundamental Concepts (COS1521)**
+  - prescribed_books
+- **Human-Computer Interaction I (NF1520)**
+  - prescribed_books
+  - summaries
+- **Introduction to Business Information Systems (INF1505)**
+  - prescribed_books
+- **Introduction to Programming II (COS1512)**
+  - prescribed_books
+- **Linear Algebra I (MAT1503)**
+  - prescribed_books
+- **Theoretical Computer Science I (COS1501)**
+  - prescribed_books
+  - Previous exam Question papers
+- **Visual Programming I (INF1511)**
+  - prescribed_books
+
+---
+
 ## How to Download Files
 
 ### Option 1: Download Without Git (No Installation Required)
@@ -65,21 +90,6 @@ New to Git? Here are some helpful resources:
 - **Git Basics - Official Guide**: [https://git-scm.com/book/en/v2/Getting-Started-Git-Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 - **GitHub's Git Handbook**: [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)
 - **Atlassian Git Tutorial**: [https://www.atlassian.com/git/tutorials/what-is-git](https://www.atlassian.com/git/tutorials/what-is-git)
-
----
-
-## Repository Structure
-
-The repository is organized by course:
-
-- **Computer Networks I (COS2626)**
-- **Computer Systems Fundamental Concepts (COS1521)**
-- **Human-Computer Interaction I (NF1520)**
-- **Introduction to Business Information Systems (INF1505)**
-- **Introduction to Programming II (COS1512)**
-- **Linear Algebra I (MAT1503)**
-- **Theoretical Computer Science I (COS1501)**
-- **Visual Programming I (INF1511)**
 
 ---
 
